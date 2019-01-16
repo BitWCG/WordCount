@@ -1,0 +1,18 @@
+c:\users\qwe\documents\visual studio 2017\Projects\GUI\GUI\obj\Debug\Interface.Form1.resources
+c:\users\qwe\documents\visual studio 2017\Projects\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+c:\users\qwe\documents\visual studio 2017\Projects\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+c:\users\qwe\documents\visual studio 2017\Projects\GUI\GUI\bin\Debug\GUI.exe.config
+c:\users\qwe\documents\visual studio 2017\Projects\GUI\GUI\bin\Debug\GUI.exe
+c:\users\qwe\documents\visual studio 2017\Projects\GUI\GUI\bin\Debug\GUI.pdb
+c:\users\qwe\documents\visual studio 2017\Projects\GUI\GUI\obj\Debug\GUI.exe
+c:\users\qwe\documents\visual studio 2017\Projects\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\WCG\Desktop\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\WCG\Desktop\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\WCG\Desktop\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\WCG\Desktop\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\WCG\Desktop\GUI\GUI\obj\Debug\InterFace.Form1.resources
+C:\Users\WCG\Desktop\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\WCG\Desktop\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\WCG\Desktop\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\WCG\Desktop\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\WCG\Desktop\GUI\GUI\obj\Debug\GUI.pdb
